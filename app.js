@@ -11,6 +11,9 @@ app.use(express.logger());
 
 var pusher = new Pusher( { appId: 53733, key: 'bc34941c47e130e926a6', secret:'fc3815584f420524a234' } );
 
+app.get('/', function(req, res) {
+    res.send('Pusher auth server running ... ');
+});
 app.get('/pusher/auth', function(req, res) {
     var socketId = req.query.socket_id;
     var channel = req.query.channel_name;

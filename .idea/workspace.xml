@@ -4,13 +4,13 @@
     <list default="true" id="aa5ee879-15e2-4574-8246-7904dddd125b" name="Default" comment="" />
     <ignored path="PusherAuth.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/app.js" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382302948354" ignored="false" />
+    <file path="/app.js" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382540406794" ignored="false" />
     <file path="/a.dummy" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382530668533" ignored="false" />
     <file path="$USER_HOME$/MyApp/www/partials/homeView.html" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382270722651" ignored="false" />
     <file path="/homeView.html" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382480112006" ignored="false" />
     <file path="$USER_HOME$/MyApp/www/js/controllers.js" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382270744521" ignored="false" />
     <file path="$USER_HOME$/MyApp/platforms/ios/www/partials/homeView.html" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382517683196" ignored="false" />
-    <file path="$USER_HOME$/MyApp/platforms/ios/www/js/controllers.js" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382519887945" ignored="false" />
+    <file path="$USER_HOME$/MyApp/platforms/ios/www/js/controllers.js" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382539628232" ignored="false" />
     <file path="$USER_HOME$/MyApp/platforms/ios/www/partials/geolocationView.html" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382278379402" ignored="false" />
     <file path="$USER_HOME$/MyApp/platforms/ios/www/partials/accelerometerView.html" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382278379402" ignored="false" />
     <file path="$USER_HOME$/MyApp/platforms/ios/www/partials/contactsView.html" changelist="aa5ee879-15e2-4574-8246-7904dddd125b" time="1382278379402" ignored="false" />
@@ -55,19 +55,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
+            <state line="18" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.5294118">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="204" selection-end="204" vertical-scroll-proportion="0.37037036">
+            <state line="12" column="1" selection-start="204" selection-end="204" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
@@ -83,14 +83,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="58" />
-    <option name="y" value="353" />
+    <option name="x" value="84" />
+    <option name="y" value="155" />
     <option name="width" value="1351" />
     <option name="height" value="823" />
   </component>
@@ -245,7 +245,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="353" width="1351" height="823" extended-state="0" />
+    <frame x="84" y="155" width="1351" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -393,16 +393,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
+        <state line="12" column="1" selection-start="204" selection-end="204" vertical-scroll-proportion="-7.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="204" selection-end="204" vertical-scroll-proportion="0.37037036">
+        <state line="18" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.5294118">
           <folding />
         </state>
       </provider>
