@@ -14,7 +14,7 @@ var pusher = new Pusher( { appId: 52768, key: '0449a107cdc44df52703', secret:'3e
 
 
 app.get('/', function(req, res) {
-    res.send('Pusher auth server running fine ... ');
+    res.send('Pusher auth server running fine at the moment ... ');
 });
 app.get('/pusher/auth', function(req, res) {
     var socketId = req.query.socket_id;
