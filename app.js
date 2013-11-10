@@ -23,7 +23,8 @@ app.get('/pusher/auth', function(req, res) {
     res.jsonp( auth );
 });
 
-var port = process.env.PORT || 5000;
+
+var port = process.env.PORT || 3000;
 app.listen(port, function() {
     console.log("Listening on " + port);
 });
