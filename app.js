@@ -1,4 +1,4 @@
-var Pusher = require( 'pusher' );
+var Pusher = require("pusher");
 var express = require("express");
 var app = express();
 
